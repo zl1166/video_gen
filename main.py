@@ -11,7 +11,7 @@ from openai import OpenAI
 from requests import request
 
 # Load OpenAI API key
-with open('/Users/zoey2022mac/study/devs/video_gen/key.json', 'r') as file:
+with open('video_gen/key.json', 'r') as file:
     key_data = json.load(file)
 api_key = key_data['key']
 
