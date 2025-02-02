@@ -32,7 +32,7 @@ This system integrates:
 | **Backend**   | FastAPI, Python                     |
 | **AI Model**  | GPT-4 (text), DALL·E (image/video)  |
 | **Storage**   | JSON file-based storage (NoSQL-like) |
-| **Deployment** | Localhost, Future Cloud Deployment (AWS/GCP) |
+| **Deployment** | Localhost |
 
 ---
 
